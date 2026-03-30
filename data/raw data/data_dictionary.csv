@@ -1,4 +1,4 @@
-file,column,description,dtype
+﻿file,column,description,dtype
 bookstore_sales.csv,date,Date of sales,date
 bookstore_sales.csv,store_id,Store identifier (YYC-DT/NW/SE),string
 bookstore_sales.csv,channel,Sales channel (IN_STORE/ONLINE),string
@@ -54,5 +54,5 @@ bookstore_customers.csv,customer_id,Customer id,int
 bookstore_customers.csv,signup_date,Signup date for loyalty,date
 bookstore_customers.csv,home_store,Preferred store,string
 bookstore_customers.csv,annual_visits,Approx visits per year,int
-bookstore_customers.csv,online_ratio,Share of spend online (0–1),float
+bookstore_customers.csv,online_ratio,Share of spend online (0â€“1),float
 bookstore_customers.csv,ltv_estimate,Lifetime value proxy (CAD),float

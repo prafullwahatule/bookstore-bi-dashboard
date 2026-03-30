@@ -12,3 +12,7 @@ CREATE TABLE raw_sales (
 );
 
 
+CREATE TABLE raw_inventory (
+	inventory_id INT AUTO_INCREMENT PRIMARY KEY,
+    
+);
